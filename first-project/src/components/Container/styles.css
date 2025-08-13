@@ -1,0 +1,15 @@
+.container {
+    background-color: rgb(209, 206, 206);
+    padding:16px
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+.w-150{
+    width: 150px;
+}
